@@ -1,4 +1,4 @@
-## Seja Bem vides!
+## Seja Bem vindas e Bem vindos!
 ## Eu Sou Marcos Egito e esse é meu git.
 <p>Aqui que eu guardo meus Trecocódigos e compartilhao também
 </p>
